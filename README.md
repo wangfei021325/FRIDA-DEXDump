@@ -30,3 +30,5 @@ Fast search and dump dex on memory.
 ## Screenshot
 
 ![](screenshot.png)
+
+[来源吾爱破解](https://www.52pojie.cn/thread-1116812-1-1.html)
