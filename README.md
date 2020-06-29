@@ -1,6 +1,7 @@
 # FRIDA-DEXDump
 
 [中文](https://mp.weixin.qq.com/s/x8_aa762wpsvA4nhSLoppQ)
+
 [来源吾爱破解](https://www.52pojie.cn/thread-1116812-1-1.html)
 
 Fast search and dump dex on memory.
